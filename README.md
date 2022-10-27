@@ -4,6 +4,7 @@
 <ul>
 	<li><span style="font-size:x-large">Reusable functional React components, React-hooks (useState, useEffect, useReducer, useContext).</span></li>
 	<li><span style="font-size:x-large">Add to cart products, customize quantity.</span></li>
+	<li><span style="font-size:x-large">Modal window for cart</span></li>
 	<li><span style="font-size:x-large">Responsive layout, CSS effects and animations.</span></li>
 </ul>
 
