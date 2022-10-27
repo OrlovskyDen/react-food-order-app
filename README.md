@@ -11,6 +11,6 @@
 
 <p><span style="font-size:x-large"><a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank"><b>Live site</b></a></span></p>
 
-<p><a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank"><img alt="thumbnail" src="https://web-lab.pp.ua/react-sushi-house-thumbnail.jpg" style="height:358px; margin:10px; width:700px"></a></p>
+<p><a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank"><img alt="thumbnail" src="https://servis24.top/assets/Sushi-house_gh.jpg" style="height:358px; margin:10px; width:700px"></a></p>
 
 <p>&nbsp;</p>
